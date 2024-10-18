@@ -1,0 +1,8 @@
+# creating a virtual env
+# from conda : conda create -p venv python==3.12 -y
+# using this from llama_index.core.query_engine import NLSQLTableQueryEngine
+ '''for row in response:
+        print(row)
+        resp2= str(row)
+        resp2=getresp2(resp2,prompt2)
+        st.header(resp2)'''

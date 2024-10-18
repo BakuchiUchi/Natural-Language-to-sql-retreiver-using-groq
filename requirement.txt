@@ -1,0 +1,8 @@
+psycopg2
+streamlit
+python-dotenv
+groq
+llama-index-llms-groq
+llama-index
+sqlalchemy
+faiss-cpu
